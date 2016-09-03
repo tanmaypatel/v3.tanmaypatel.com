@@ -1,0 +1,1 @@
+require(["polyfill"],function(){require(["scripts/navigator"]),require(["scripts/emblem-animations"]),require(["scripts/what-hero-loves"])});
