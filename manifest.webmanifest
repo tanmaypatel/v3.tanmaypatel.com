@@ -1,0 +1,26 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Tanmay Patel - Woven with Web",
+  "scope": "/",
+  "display": "browser",
+  "start_url": "/",
+  "short_name": "Tanmay Patel",
+  "theme_color": "transparent",
+  "description": "Hello, I'm Tanmay Patel. I am a UI Developer, and a hobbyist Designer, with more than 7 years of experience in createing interfaces for Modern Web Applications and Hybrid Mobile Apps.",
+  "orientation": "portrait",
+  "background_color": "transparent",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48 32x32 16x16"
+    },
+    {
+      "src": "https://www.tanmaypatel.com/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ]
+}
